@@ -4,7 +4,7 @@ Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Software Engineer
 -----------------
 
-I've always wanted to do meaningful work. Something that would help others while at the same time, I enjoyed. My goal as a software engineer is to be able to look back at my career someday and confidently say that what I've created has helped someone and changed the world for the better. I have a passion for learning and love collaborating with others on anything and everything. If you want to contact me, feel free to hit up my socials below!
+From transitioning a background in the restaurant and retail industry to finishing the SEI Immersive program, I'm excited to achieve my full potential by pursuing a career as a junior developer. With strong communication and leadership skills, I aim to not only build a successful career, but also create a supportive network and foundation for myself and my community. My ability to maintain a level-headed mindset under stress sets me apart and positions me for success in the fast-paced tech industry.
 
 * 🌍  I'm based in Atlanta, GA
 * ✉️  You can contact me at [hby0818@gmail.com](mailto:hby0818@gmail.com)
